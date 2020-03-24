@@ -7,7 +7,7 @@
 * Plain text and keys, can be either 128 bits, 192 bits or 256 bits. 
 
 ## Simulation
-set digit width
+create input file
 ``` 
 $ python init.py
 ```
